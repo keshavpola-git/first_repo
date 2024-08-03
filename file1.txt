@@ -1,4 +1,5 @@
 this is my new file
 I am writing to  create a repo  and sync it
 added two codes
-this is master 
+this is master
+execute the code 
